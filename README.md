@@ -192,7 +192,8 @@ def lambda_handler(event, context):
 4. **Check Discord:**
    - Verify that alerts are received in the specified Discord channel.
      
-  ![image2](https://github.com/user-attachments/assets/f7b64ee5-63d8-465d-ab02-5391a96fa672)
+     ![image](https://github.com/user-attachments/assets/a235b065-d547-4183-8b31-3cc7d162b725)
+
 ---
 
 ## Enhancements for the future
