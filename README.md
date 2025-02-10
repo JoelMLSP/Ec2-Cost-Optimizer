@@ -2,6 +2,7 @@
 
 This project automates the detection and management of underutilized AWS EC2 instances to reduce cloud costs. Using **AWS Lambda** and **EventBridge Scheduler**, the function periodically identifies instances with low utilization and stops them. Notifications are sent to a designated **Discord channel** using a webhook for visibility.
 
+The reason for this project is that im warry of getting high bills in aws and want to avoid it ^^ 
 ---
 
 ## Prerequisites
